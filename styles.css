@@ -1,7 +1,7 @@
 body {
-    background-color: #6600FF; /* Cor do fundo da tela */
-    color: #3D1F77; /* Cor da letra */
-    font-family: "Fira Sans", sans-serif; /* Tipo de letra */
+    background-color: #6600FF; 
+    color: #3D1F77; 
+    font-family: "Fira Sans", sans-serif; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,9 +10,9 @@ body {
 }
 
 button {
-    background-color: #6C2C91; /* Cor do fundo do botão */
+    background-color: #6C2C91; 
     color: white;
-    font-family: "Fira Sans", sans-serif; /* Tipo de letra */
+    font-family: "Fira Sans", sans-serif; 
 }
 
 .passo {
