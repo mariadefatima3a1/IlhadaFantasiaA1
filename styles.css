@@ -1,7 +1,7 @@
 body {
     background-color: #6600FF;
     color: #3D1F77;
-    font-family: "Fira Sans", sans-serif;
+    font-family: "Fira Sans", Fira Sans;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 button {
     background-color: #6C2C91;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Bai Jamjuree", Fira Sans;
 }
 
 .passo {
