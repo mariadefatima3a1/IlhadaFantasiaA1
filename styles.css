@@ -1,7 +1,7 @@
 body {
-    background-color: #6600FF;
-    color: #3D1F77;
-    font-family: "Fira Sans", Fira Sans;
+    background-color: #6600FF; /* Cor do fundo da tela */
+    color: #3D1F77; /* Cor da letra */
+    font-family: "Fira Sans", sans-serif; /* Tipo de letra */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,9 +10,9 @@ body {
 }
 
 button {
-    background-color: #6C2C91;
+    background-color: #6C2C91; /* Cor do fundo do botão */
     color: white;
-    font-family: "Bai Jamjuree", Fira Sans;
+    font-family: "Fira Sans", sans-serif; /* Tipo de letra */
 }
 
 .passo {
@@ -20,7 +20,7 @@ button {
 }
 
 .passo.ativo {
-    display:block;
+    display: block;
 }
 
 main {
@@ -31,3 +31,4 @@ main {
 img {
     max-width: 90%;
 }
+
